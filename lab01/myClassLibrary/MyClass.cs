@@ -1,4 +1,5 @@
 ﻿namespace myClassLibrary;
+using Newtonsoft.Json;
 
 public class MyClass
 {
