@@ -1,0 +1,17 @@
+C:\Users\wolny\lab01\bin\Debug\net8.0\lab01.exe
+C:\Users\wolny\lab01\bin\Debug\net8.0\lab01.deps.json
+C:\Users\wolny\lab01\bin\Debug\net8.0\lab01.runtimeconfig.json
+C:\Users\wolny\lab01\bin\Debug\net8.0\lab01.dll
+C:\Users\wolny\lab01\bin\Debug\net8.0\lab01.pdb
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.csproj.CoreCompileInputs.cache
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.dll
+C:\Users\wolny\lab01\obj\Debug\net8.0\refint\lab01.dll
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.pdb
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.genruntimeconfig.cache
+C:\Users\wolny\lab01\obj\Debug\net8.0\ref\lab01.dll
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.csproj.AssemblyReference.cache
+C:\Users\wolny\lab01\bin\Debug\net8.0\myClassLibrary.dll
+C:\Users\wolny\lab01\bin\Debug\net8.0\myClassLibrary.pdb
+C:\Users\wolny\lab01\obj\Debug\net8.0\lab01.csproj.Up2Date
+C:\Users\wolny\lab01\bin\Debug\net8.0\Newtonsoft.Json.dll

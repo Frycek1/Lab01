@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VfkiqGE5unI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wolny\\lab01\\myClassLibrary\\myClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolny\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

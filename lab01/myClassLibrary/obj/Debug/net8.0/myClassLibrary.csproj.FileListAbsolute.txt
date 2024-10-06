@@ -1,0 +1,10 @@
+C:\Users\wolny\lab01\myClassLibrary\bin\Debug\net8.0\myClassLibrary.deps.json
+C:\Users\wolny\lab01\myClassLibrary\bin\Debug\net8.0\myClassLibrary.dll
+C:\Users\wolny\lab01\myClassLibrary\bin\Debug\net8.0\myClassLibrary.pdb
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\myClassLibrary.csproj.AssemblyReference.cache
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\myClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\myClassLibrary.dll
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\refint\myClassLibrary.dll
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\myClassLibrary.pdb
+C:\Users\wolny\lab01\myClassLibrary\obj\Debug\net8.0\ref\myClassLibrary.dll
